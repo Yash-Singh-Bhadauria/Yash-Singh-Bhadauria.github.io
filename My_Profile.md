@@ -21,10 +21,10 @@ I am yash Singh Bhadauria from Rajnandgaon, Chattisgarah. I was born on 19th Jan
   - BTech in Computer Science and Engineering : **Indian Institute of Technology Goa**
 
 ## Courses in First Year Spring Semeter
-- CS102  Introduction to Computer Tools  Clint P. Geroge
-- BIO102 Introduction to Biology         Srinath Balkrishna
-- EE101  Introduction to Electricals     Bidhan Prmanik
-- MA102  Linear Algebra                  Kalpesh Harir
+- CS102  --  Introduction to Computer Tools   --   Clint P. Geroge
+- BIO102  -- Introduction to Biology   --          Srinath Balkrishna
+- EE101  --  Introduction to Electricals     --    Bidhan Prmanik
+- MA102  --  Linear Algebra         --             Kalpesh Harir
 
 ## Hobbies and Interests
 I like to play badminton, listen to music and play with cats 
